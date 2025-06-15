@@ -1,6 +1,6 @@
-# KCLhack_2025
+# KCLhack2025
 
-## purpose 
+## 目標
 
-- update our programming skills
-- update carrer life !!
+- update skills !
+- get enjoylable life
